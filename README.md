@@ -52,3 +52,28 @@ Communication is the process of transmitting information and common understandin
 
 
 •	Organisational: is a structure that affect capability of the employee as far as the communication is concerned.
+
+#### Presentation skills:
+
+•	Structure: have a logical order: introduction, middle with your main points and a conclusion.
+
+
+
+•	Practice: practice beforehand in front of a mirror, with a recorder or in front of a friend.
+
+
+
+•	Body Language: smile, make eye contact, stand up straight and move around a bit.
+•	Note: Have brief notes on postcards sized cards.
+
+
+•	Speech: speak clearly, confidently, concisely and not too fast.
+
+
+•	PowerPoint: keep slides clean and simple. Don’t have lots of text on each slide. Use charts, diagrams and pictures.
+
+
+•	Interaction: build a report with audience, get them involved by asking and encouraging questions.
+
+
+•	Nervousness: it helps to be more energised; preparation and practice will reduce nerves.
