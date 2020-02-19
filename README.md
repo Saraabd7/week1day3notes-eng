@@ -42,7 +42,7 @@ Communication is the process of transmitting information and common understandin
 
  Communication barriers: is an aspects or conditions that interfere with effective exchange of ideas or thoughts.
 
- •Personal: is communication result from the personal skills of the individuals frame of reference or beliefs and values Each person's level of self-esteem and their degree of confidence will be portrayed to others by the communication signals they display. It will also be reflected in the attitude they adopt during the exchange.
+ • Personal: is communication result from the personal skills of the individuals frame of reference or beliefs and values Each person's level of self-esteem and their degree of confidence will be portrayed to others by the communication signals they display. It will also be reflected in the attitude they adopt during the exchange.
 
 •	Physical: relate to disturbance in the immediate situation, which can interfere in the course of an effective communication.
 
