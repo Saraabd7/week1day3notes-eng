@@ -53,7 +53,23 @@ Communication is the process of transmitting information and common understandin
 
 •	Organisational: is a structure that affect capability of the employee as far as the communication is concerned.
 
-#### Presentation skills:
+### Situation Management:
+
+it is the role of the Situation Manager is to manage problem escalation, lead the problem resolution team, report and communicate powerfully, and conduct lessons-learned sessions. Mastering these competencies allows the Situation Manager to lead the problem resolution team in solving problems quickly and cost effectively.
+
+Skills:
+
+1.Emotional Intelligence.
+
+2.Active Listening.
+
+3.Relinquishing one’s position in order to understand other’s position.
+
+3.Accessing and utilising resources to manage situations.
+
+
+
+##### Presentation skills:
 
 •	Structure: have a logical order: introduction, middle with your main points and a conclusion.
 
