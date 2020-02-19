@@ -1,7 +1,7 @@
 # Communication
 Communication is the process of transmitting information and common understanding from one person to another.
 
-#Communication Principles:
+Communication Principles:
 
 
 •	Clarity:  In order to make the message clear to the receivers, the message should be organised by using simple language.
