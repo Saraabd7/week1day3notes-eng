@@ -37,7 +37,7 @@ Communication is the process of transmitting information and common understandin
 •	Following feedback process: Communication should have the provision of feedback. In the absence of feedback, communication will be one-way and might be incomplete.
 
 
-### Communication barriers:
+## Communication barriers:
 
 
  Communication barriers: is an aspects or conditions that interfere with effective exchange of ideas or thoughts.
@@ -55,7 +55,7 @@ Communication is the process of transmitting information and common understandin
 
 ### Situation Management:
 
-it is the role of the Situation Manager is to manage problem escalation, lead the problem resolution team, report and communicate powerfully, and conduct lessons-learned sessions. Mastering these competencies allows the Situation Manager to lead the problem resolution team in solving problems quickly and cost effectively.
+It is the role of the Situation Manager is to manage problem escalation, lead the problem resolution team, report and communicate powerfully, and conduct lessons-learned sessions. Mastering these competencies allows the Situation Manager to lead the problem resolution team in solving problems quickly and cost effectively.
 
 Skills:
 
