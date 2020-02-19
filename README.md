@@ -1,7 +1,7 @@
 # Communication
 Communication is the process of transmitting information and common understanding from one person to another.
 
-Communication Principles:
+## Communication Principles:
 
 
 •	Clarity:  In order to make the message clear to the receivers, the message should be organised by using simple language.
@@ -35,3 +35,20 @@ Communication Principles:
 •	Reason-ability: Communication should be based on logic and reason rather than assumption and intuition.
 
 •	Following feedback process: Communication should have the provision of feedback. In the absence of feedback, communication will be one-way and might be incomplete.
+
+
+### Communication barriers:
+
+
+ Communication barriers: is an aspects or conditions that interfere with effective exchange of ideas or thoughts.
+
+ •Personal: is communication result from the personal skills of the individuals frame of reference or beliefs and values Each person's level of self-esteem and their degree of confidence will be portrayed to others by the communication signals they display. It will also be reflected in the attitude they adopt during the exchange.
+
+•	Physical: relate to disturbance in the immediate situation, which can interfere in the course of an effective communication.
+
+•	Geographical: work spreads around the world. For example: in an international company the work and the services provided can be done in different countries by different specialists to meet client’s need.
+
+•	Culture: Inability to converse in a language that is known by both the sender and the receiver it provides people ways of thinking, seeing, hearing and interpreting the world, similar words can mean different things to people from different cultures, even when they talk the same language.
+
+
+•	Organisational: is a structure that affect capability of the employee as far as the communication is concerned.
